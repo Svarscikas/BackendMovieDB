@@ -1,0 +1,23 @@
+{
+  "name": "backendmoviedb",
+  "version": "1.0.0",
+  "description": "A simple server side application for handling movie database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:Svarscikas/BackendMovieDB.git"
+  },
+  "keywords": [
+    "database",
+    "server",
+    "movies"
+  ],
+  "author": "Arnas Erslovas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
